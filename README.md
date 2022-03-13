@@ -6,6 +6,7 @@
   <a href="https://github.com/Douglax6">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglax6&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglax6&layout=compact&langs_count=7&theme=cobalt"/>
   
   <img align="center" alt="Douglas-HTML" height="40" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
   <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
